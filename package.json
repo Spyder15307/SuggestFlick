@@ -3,6 +3,5 @@
      "scripts": {
               "start": "python app.py"
    }
-    "bootstrap-icons": "^1.11.2"
   }
 }
